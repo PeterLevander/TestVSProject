@@ -10,6 +10,7 @@ namespace TestConsoleGitHub
     {
         static void Main(string[] args)
         {
+            string first = "";
         }
     }
 }
