@@ -12,6 +12,7 @@ namespace TestConsoleGitHub
         {
             string gurka = "";
             string tva = "2";
+            string tre = "3";
         }
     }
 }
