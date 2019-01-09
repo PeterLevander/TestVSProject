@@ -8,5 +8,10 @@ namespace TestConsoleGitHub
 {
     class TestClass
     {
+        public TestClass()
+        {
+            string gurka = "";
+            string tva = "2";
+        }
     }
 }
